@@ -58,7 +58,7 @@ lib/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vinit105/quote_of_the_day.git
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
@@ -91,4 +91,4 @@ Contributions are welcome! To contribute:
 
 ## Demo 
 
-[![demo](https://github.com/vinit105/BMI-Calculator/blob/c3273b2ce95d79bc171160c02df31dec3a940aaa/screenshot_01.png)](https://github.com/user-attachments/assets/89598c27-7250-4957-b192-6d8c380adf6b)
+[![demo](https://github.com/vinit105/quote_of_the_day/blob/20588f27cc807bc6b54331723de6b5d6644ff74a/screenshots/screenshot_01.png)](https://github.com/user-attachments/assets/cd6c25d5-3be4-47d2-aa6a-f5801d7daff2)
