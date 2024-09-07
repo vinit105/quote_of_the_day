@@ -16,7 +16,7 @@ Welcome to the **Quote of the Day** app, a Flutter application designed to provi
 Here’s a brief overview of the project file structure:
 
 lib/
-│
+│  
 ├── buttons/  
 │   ├── [content_copy_button.dart](./lib/buttons/content_copy_button.dart)  
 │   ├── [like_button.dart](./lib/buttons/like_button.dart)  
